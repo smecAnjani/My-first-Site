@@ -138,3 +138,8 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.footer-link
+{
+  color:#21bf73;
+  font-size:15px;
+}
